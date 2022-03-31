@@ -1,0 +1,23 @@
+{
+  "name": "uniweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.8.1",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.4.2",
+    "@mui/material": "^5.4.3",
+    "@mui/styles": "^5.4.2",
+    "mui-image-slider": "^1.0.7",
+    "react-material-ui-carousel": "^3.2.0",
+    "react-responsive": "^9.0.0-beta.6",
+    "react-router-dom": "^6.2.1"
+  }
+}
